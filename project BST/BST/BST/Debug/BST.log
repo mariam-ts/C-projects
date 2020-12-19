@@ -1,0 +1,3 @@
+﻿  Driver.cpp
+C:\Users\Asus\source\repos\BST\BST\BST.h(2,1): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BST.vcxproj -> C:\Users\Asus\source\repos\BST\Debug\BST.exe
